@@ -1,0 +1,33 @@
+/* General styling */
+body {
+  text-align: center;
+  background: #008080;
+  color: white;
+  font-family: 'helvetica neue', sans-serif;
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.controls {
+  margin-bottom: 50px;
+}
+
+input {
+  width: 100px;
+}
+
+.ImgSrc,
+.ImgSrc a {
+  font-size: 14px;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  color: white;
+}
+
+div.ImgSrc {
+  text-align: center;
+  margin: auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
